@@ -17,7 +17,3 @@ Aim of this project is to distinguish **five classes**:
 
 The dataset utilized consists of lung and colon cancer **histopathological images**, containing 25,000 images. Each image is 768 x 768 pixels in *jpeg* file format. 
 We will use **convolutional neural network** and Python with the `PyTorch` framework.
-
-**Versions:**
-* (09.06.2024) **Version 0.1**: Project work initiatio
-
