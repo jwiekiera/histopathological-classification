@@ -1,7 +1,7 @@
 # Multiclass classification of histopathological images of lung and colon tissue
 **Project in progress**
 <center>
-  <img src="dataset-cover.jpeg" alt="Dataset cover" width="1000">
+  <img src="IMG/dataset-cover.jpeg" alt="Dataset cover" width="1000">
 </center>
 <p align="center" style="font-size: smaller; color: gray; font-style: italic;">
   Photo taken from Pixabay at Pexels
